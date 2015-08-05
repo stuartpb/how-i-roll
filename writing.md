@@ -1,6 +1,6 @@
 # Writing
 
-People have been telling me for years "you should have a blog". It makes sense - I've got a lot to say. That said, blogs hven't really stuck to me.
+People have been telling me for years "you should have a blog". It makes sense - I've got a lot to say. That said, blogs haven't really stuck to me.
 
 I don't really like any existing blogging solution. Existing platforms are either too imposing or not opinionated enough. Beyond just the pure software-implementation problem, the whole notion of "a blog" is too restrictive to fit my model of what I do. Even "multiple blogs" doesn't fit.
 
