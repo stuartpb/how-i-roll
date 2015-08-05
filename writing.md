@@ -6,7 +6,7 @@ I don't really like any existing blogging solution. Existing platforms are eithe
 
 Traditional "blog" content is like:
 
-- E/N posts that mean everything to the author but nothing to anybody else. If I'm going to write something, I'm going to write it with an idea in mind of why somebody would want to read it, and "because they have some kind of weird obsession with me apropos of nothing else" is not a healthy reason.
+- E/N posts that mean everything to the author but nothing to anybody else. If I'm going to write something, I'm going to write it with an idea in mind of why somebody would want to read it, and "because they have some kind of weird obsession with me apropos of nothing else" is not a healthy reason. (Besides, [I have Twitter for that](https://twitter.com/stuartpb).)
 - Stuff that restates an existing topic the author has written about before. I don't feel like wasting my time writing filler so someone else can waste time reading it. I'd rather just revisit the thing I'd already written and edit that to fix the omission. I'm not really the "write several distinct posts in arbitrary order and never revist them" type. I'm more of a "wiki" guy.
   - I actually did experiment with having a MediaWiki circa 2010, but that fell apart, as fragile PHP instances without a diverse tooling and access ecosystem are wont to do. Also, the content had serious scope-creep, with lots of stubs as I jumped around trying to nail breadth-first content for a site that was ostensibly designed to grow into a Wikipedia-like community project, rather than focusing on it like a personal work.
 
