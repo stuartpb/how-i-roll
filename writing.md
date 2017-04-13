@@ -21,7 +21,7 @@ It's not like I invented the idea, I was inspired by some specific repos that to
 - https://github.com/nolanlawson/state-of-binary-data-in-the-browser
 - https://github.com/k88hudson/git-flight-rules
 
-Basically, I've come down in favor of writing *too much* stuff, because when I was trying to right *the right amount* of stuff, it ended up being *too little* stuff - in most cases, no stuff at all. (What ended up becoming Lean Notes was originally a collection of Markdown files in another project I hadn't made the first commit on because I hadn't "figured out" how I wanted to "integrate" them.) It's easier to fix the former than the latter.
+Basically, I've come down in favor of writing *too much* stuff, because when I was trying to write *the right amount* of stuff, it ended up being *too little* stuff - in most cases, no stuff at all. (What ended up becoming Lean Notes was originally a collection of Markdown files in another project I hadn't made the first commit on because I hadn't "figured out" how I wanted to "integrate" them.) It's easier to fix the former than the latter.
 
 On the subject of not being constrained to a format, there are other similar projects I've done, falling somewhere on the "content" spectrum that some people would reserve for blog posts, that don't *quite* match the "book" paradigm I described above, but share a similar path to success in that I did them because the only "format" I was adhering to was the "raw materials" ahead of any architectural/ontological concerns:
 
