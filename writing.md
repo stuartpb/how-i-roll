@@ -12,27 +12,9 @@ Traditional "blog" content is like:
 
 So, after a long while of pretty much keeping this sort of thing bottled up, the space I've sort of drifted into where I'm starting to get stuff done is creating repos on GitHub for the things I'd write about, on the order of one repo per "topic". In theory, each repo is like a book, or a wiki, or something like that: a discrete cyclopedia that can be edited and expanded to incorporate all the content I wish to convey within its scope.
 
-Examples (this will probably get explanded into its own proper index page at some point, in some form, somewhere, somehow):
+See [stuartpb/collected-writings](https://github.com/stuartpb/collected-writings/blob/master/README.md) for a more-or-less exhaustive list of these repos. (Per my point about consolidating and revisiting past writings to embellish them over time, this paragraph was originally an unadorned list of only a handful of the repos that are now enumerated there, with descriptions.)
 
-- [CouchDB in a Hurry][]
-- [Waxhead Revisited][]
-- [specs-laws][]
-- [github-best-practices][]
-- [Primer Prime][]
-- [Understanding Lua][]
-- [western-civilization-walkthrough][]
-
-(You'll have to go to their individual repos for the summaries, I'm not rewriting those right now)
-
-[CouchDB in a Hurry]: https://github.com/stuartpb/couchdb-in-a-hurry
-[Waxhead Revisited]: https://github.com/stuartpb/waxhead-revisited
-[specs-laws]: https://github.com/stuartpb/specs-laws
-[github-best-practices]: https://github.com/stuartpb/github-best-practices
-[Primer Prime]: https://github.com/stuartpb/primerprime
-[Understanding Lua]: https://github.com/stuartpb/understanding-lua
-[western-civilization-walkthrough]: https://github.com/stuartpb/western-civilization-walkthrough
-
-The last four examples were touch-and-go experiments that predated me *really embracing* this GitHub-repo-full-of-Markdown-files-written-like-rough-drafts-without-any-real-regard-for-making-it-look-nice-Gonzo-Hemingway-purple-monkey-dishwasher-this-is-a-stream-of-consciousness-and-I'm-okay-with-that paradigm, which is why they don't really have any content. (Some of those were also more-or-less attempts at using GitBook that didn't really take off because of too much up-front friction around getting the format right.)
+The last four repos in that original handful of hewn examples (github-best-practices, Primer Prime, Understanding Lua, and western-civilization-walkthrough) were touch-and-go experiments that predated me *really embracing* this GitHub-repo-full-of-Markdown-files-written-like-rough-drafts-without-any-real-regard-for-making-it-look-nice-Gonzo-Hemingway-purple-monkey-dishwasher-this-is-a-stream-of-consciousness-and-I'm-okay-with-that paradigm, which is why they don't really have any content. (Some of those were also more-or-less attempts at using GitBook that didn't really take off because of too much up-front friction around getting the format right.)
 
 It's not like I invented the idea, I was inspired by some specific repos that took similar approaches where they existed primarily to hold the README (a paradigm that had already been embraced by services like GitBook):
 
